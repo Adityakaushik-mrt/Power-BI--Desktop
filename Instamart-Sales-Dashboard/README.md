@@ -8,7 +8,7 @@ The dashboard provides an easy-to-use interactive interface that helps identify 
 
 ## 📊 Dashboard Preview
 
-![Instamart Sales Dashboard](https://github.com/Adityakaushik-mrt/Power-BI-Dashboard/blob/main/Instamart-Sales-Dashboard/Instamart_Dashboard.JPG?raw=true)
+![Instamart Sales Dashboard](https://github.com/Adityakaushik-mrt/Power-BI--Desktop/blob/f540e8fa6f09fd017d92f7cb48bc0f51d8318c87/Instamart-Sales-Dashboard/Instamart_Dashboard.JPG)
 
 ---
 
