@@ -10,7 +10,7 @@ This report provides executive leadership and financial analysts with deep visib
 
 ## 📊 Dashboard Preview
 
-![Bank Loan Report Dashboard](https://github.com/Adityakaushik-mrt/Power-BI-Dashboard/blob/main/Bank%20Loan%20Analysis/Dashboard.PNG?raw=true)
+![Bank Loan Report Dashboard](https://github.com/Adityakaushik-mrt/Power-BI--Desktop/blob/86d171414a20d5b8981a3be6de8ea4e1f6766ae8/Bank%20Loan%20Analysis/Dashboard.PNG)
 
 ### 🌟 Key Performance Indicators (KPIs)
 * **Total Loan Applications:** 38.6K (4.31K MTD | 6.91% MoM)
